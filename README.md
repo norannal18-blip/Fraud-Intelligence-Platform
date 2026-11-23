@@ -163,6 +163,3 @@ Umm Al-Qura University
 ## 📌 Project Purpose
 
 This project demonstrates practical skills in data analysis, machine learning model development, model evaluation, and interactive application deployment for financial fraud detection.
-## 📌 Project Purpose
-
-This project was developed as a practical application of Machine Learning techniques for financial fraud detection and data analysis.
