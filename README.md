@@ -163,3 +163,6 @@ Umm Al-Qura University
 ## 📌 Project Purpose
 
 This project demonstrates practical skills in data analysis, machine learning model development, model evaluation, and interactive application deployment for financial fraud detection.
+[🚀 Live Demo](https://fraud-intelligence-platform-vpouwitqhkkcehmgok6vs2.streamlit.app/)
+
+[💻 GitHub Repository](https://github.com/norannal18-blip/Fraud-Intelligence-Platform)
