@@ -151,7 +151,8 @@ streamlit run app.py
 The application is deployed using Streamlit Community Cloud and connected to GitHub.
 
 - Source Code: https://github.com/norannal18-blip/Fraud-Intelligence-Platform
-- Live Application: Add your Streamlit application URL here.
+- Live Application: https://fraud-intelligence-platform-vpouwitqhkkcehmgok6vs2.streamlit.app/
+
 
 ## 👩‍💻 Author
 
