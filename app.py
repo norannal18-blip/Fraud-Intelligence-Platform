@@ -91,7 +91,7 @@ st.divider()
 # 4. MODEL LOADING
 # =====================================================
 
-MODEL_PATH = Path("final_fraud_model (2).pkl")
+MODEL_PATH = Path("final_fraud_model (1).pkl")
 DATA_PATH = Path("raw/creditcard.csv")
 
 @st.cache_resource
