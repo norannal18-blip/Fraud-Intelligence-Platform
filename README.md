@@ -167,3 +167,5 @@ This project demonstrates practical skills in data analysis, machine learning mo
 [🚀 Live Demo](https://fraud-intelligence-platform-vpouwitqhkkcehmgok6vs2.streamlit.app/)
 
 [💻 GitHub Repository](https://github.com/norannal18-blip/Fraud-Intelligence-Platform)
+## 📸 Application Screenshot
+![Fraud Detection Dashboard](dashboard.png)
